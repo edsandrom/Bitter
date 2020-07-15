@@ -1,0 +1,162 @@
+body {
+  padding-top: 5rem;
+  background-color: #cccccc;
+  
+}
+.tweets{
+    background-color: blue;
+    font-size: 14em;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.center-align {
+	padding: 10px;
+	text-align: center;
+	color: red;
+}
+.column2 {
+  float: left;
+  width: 33.33%;
+  margin:1em;
+}
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.col-md-3 {
+	height : 600px;
+        width: 1000px;
+}
+.logo {
+	display:block;
+	margin-left:50px;
+	height: 60px;
+	
+	border: yellow 2px solid;
+}
+.bannericons {
+	height: 40px;
+	border: yellow 2px solid;
+}
+.emailicon {
+	height: 60px;
+	border: yellow 2px solid;
+}
+.mainprofile {
+	height: 40%;
+	border: yellow 4px solid;
+	border-radius: 20px;
+	padding: 1em;
+}
+.whoToTroll {
+	height: 80%;
+	border: yellow 4px solid;
+	border-radius: 20px;
+	padding: 1em;
+	width: 120%
+}
+.trending {
+	height: 40%;
+	border: yellow 4px solid;
+	border-radius: 20px;
+}
+td {
+	font-weight: bold;
+	padding: 5px;
+	text-align: center;
+}
+.collapse {
+	float: right;
+	text-align: center;
+	width: 100%
+	
+}
+/* for the registration form */
+.form-group{
+	margin-bottom: 15px;
+}
+
+label{
+	margin-bottom: 15px;
+}
+.main-login{
+ 	background-color: #fff;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+
+}
+.main-center{
+ 	margin-top: 30px;
+ 	margin: 0 auto;
+ 	max-width: 600px;
+    padding: 10px 40px;
+	background:#000000;
+	    color: yellow;
+    text-shadow: none;
+	-webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.31);
+-moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.31);
+box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.31);
+
+}
+
+#button {
+    border: 1px solid yellow;
+    margin-top: 28px;
+    padding: 6px 12px;
+    color: #666;
+    text-shadow: 0 1px #fff;
+    cursor: pointer;
+    -moz-border-radius: 3px 3px;
+    -webkit-border-radius: 3px 3px;
+    border-radius: 3px 3px;
+    -moz-box-shadow: 0 1px #fff inset, 0 1px #ddd;
+    -webkit-box-shadow: 0 1px #fff inset, 0 1px #ddd;
+    box-shadow: 0 1px #fff inset, 0 1px #ddd;
+    background: yellow;
+    color: #000000
+    
+}
+.invisible {
+	display: none;
+}
+.visible {
+	display: block;
+}
+.filler {
+	border: 5px blue solid;
+	height: 500px;
+}
+.bold {
+	font-weight: bold;
+	vertical-align: top;	
+}
+.floatleft {
+	float: left;
+}
+.followbutton{
+	font-weight:bold;
+	background: black;
+	color: yellow;
+}
+.icon {
+	margin: 5px;
+	width: 10%;
+}
+.smallicon {
+	margin: 5px;
+	width: 5%;
+}
+.profilephoto {
+	margin: 5px;
+	width: 30%;
+}
+/* for the registration form */
+
